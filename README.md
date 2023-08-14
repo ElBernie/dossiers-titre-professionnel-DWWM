@@ -8,4 +8,4 @@ Ces dossiers ont été réalisés dans le cadre de ma préparation à la soutena
 
 
 > 🚨🚨🚨🚨
-> Si ces dossiers te sont, ou t'on été utiles pour n'hésite pas à mettre une petite étoile ★ sur le repo !
+> Si ces dossiers te sont, ou t'ont été utiles pour ton examen n'hésite pas à mettre une petite étoile ★ sur le repo !
